@@ -1,3 +1,6 @@
+/**
+ * Repositorio de acceso a datos para operaciones de lectura y escritura en ficheros CSV delimitados por ';'.
+ */
 package actividad03
 
 import com.github.doyaaaaaken.kotlincsv.dsl.csvReader

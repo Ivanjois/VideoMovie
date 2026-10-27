@@ -1,3 +1,6 @@
+/**
+ * Repositorio de datos que combina la persistencia en CSV con la lectura y procesamiento de catalogos en formato XML.
+ */
 package actividad04
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper

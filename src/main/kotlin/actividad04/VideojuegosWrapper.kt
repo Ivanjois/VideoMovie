@@ -1,3 +1,6 @@
+/**
+ * Clase contenedora (wrapper) requerida por Jackson para mapear la etiqueta raiz <videojuegos> a una lista de objetos.
+ */
 package actividad04
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper

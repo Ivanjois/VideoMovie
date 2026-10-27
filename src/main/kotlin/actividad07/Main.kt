@@ -1,3 +1,6 @@
+/**
+ * Actividad 07 - Interfaz de demostracion de acceso directo O(1), modificacion in situ y borrado logico en ficheros binarios.
+ */
 package actividad07
 
 import java.nio.file.Files

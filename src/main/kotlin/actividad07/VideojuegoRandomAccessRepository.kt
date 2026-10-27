@@ -1,3 +1,6 @@
+/**
+ * Repositorio de acceso aleatorio O(1) a ficheros binarios (.dat) con registros fijos de 76 bytes usando FileChannel y ByteBuffer.
+ */
 package actividad07
 
 import java.nio.ByteBuffer

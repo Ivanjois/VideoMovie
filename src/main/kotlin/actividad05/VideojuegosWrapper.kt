@@ -1,3 +1,6 @@
+/**
+ * Envoltorio estructural XML para mantener compatibilidad en entornos que gestionan multiples formatos simultaneamente.
+ */
 package actividad05
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper

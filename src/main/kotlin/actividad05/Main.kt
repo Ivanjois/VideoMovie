@@ -1,3 +1,6 @@
+/**
+ * Actividad 05 - Menu interactivo con soporte de integracion de datos desde archivos JSON y sincronizacion con CSV.
+ */
 package actividad05
 
 import java.nio.file.Path

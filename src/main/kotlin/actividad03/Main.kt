@@ -1,3 +1,6 @@
+/**
+ * Actividad 03 - Interfaz de consola interactiva para la gestion completa (CRUD) sobre ficheros CSV.
+ */
 package actividad03
 
 import java.nio.file.Path

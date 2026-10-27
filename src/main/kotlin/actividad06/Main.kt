@@ -1,3 +1,6 @@
+/**
+ * Actividad 06 - Motor de conversion universal que permite transformar ficheros bidireccionalmente entre CSV, XML y JSON.
+ */
 package actividad06
 
 import java.nio.file.Files

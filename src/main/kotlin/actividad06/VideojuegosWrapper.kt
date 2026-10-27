@@ -1,3 +1,6 @@
+/**
+ * Estructura envolvente para la serializacion y deserializacion jerarquica del arbol de nodos XML.
+ */
 package actividad06
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper

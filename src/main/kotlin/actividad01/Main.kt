@@ -1,3 +1,7 @@
+/**
+ * Actividad 01 - Verificacion inicial del entorno de desarrollo.
+ * Comprueba la configuracion del compilador Kotlin y la sincronizacion del proyecto con Gradle.
+ */
 package actividad01
 
 fun main() {

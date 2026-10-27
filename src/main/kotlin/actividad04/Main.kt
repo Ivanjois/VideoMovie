@@ -1,3 +1,6 @@
+/**
+ * Actividad 04 - Interfaz de consola que incorpora la importacion y mezcla de registros desde ficheros XML sin duplicar IDs.
+ */
 package actividad04
 
 import java.nio.file.Path

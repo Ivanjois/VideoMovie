@@ -1,3 +1,6 @@
+/**
+ * Repositorio simetrico con metodos de lectura y escritura independientes para cada uno de los tres formatos (CSV, XML, JSON).
+ */
 package actividad06
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper

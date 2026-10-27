@@ -1,3 +1,6 @@
+/**
+ * Entidad de dominio con compatibilidad para deserializacion XML mediante Jackson Dataformat XML.
+ */
 package actividad04
 
 data class Videojuego(

@@ -1,3 +1,6 @@
+/**
+ * Modelo de datos que representa un videojuego para el almacenamiento en ficheros de texto plano CSV.
+ */
 package actividad03
 
 data class Videojuego(

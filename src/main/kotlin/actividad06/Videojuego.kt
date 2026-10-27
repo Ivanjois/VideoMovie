@@ -1,3 +1,6 @@
+/**
+ * Modelo de datos unificado compatible con todos los formatos de intercambio soportados por la aplicacion (CSV, XML y JSON).
+ */
 package actividad06
 
 import kotlinx.serialization.Serializable

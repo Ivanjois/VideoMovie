@@ -1,3 +1,6 @@
+/**
+ * Repositorio con soporte simultaneo para el procesamiento y persistencia en formatos CSV, XML y JSON.
+ */
 package actividad05
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper

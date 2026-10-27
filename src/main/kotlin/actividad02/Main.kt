@@ -1,3 +1,7 @@
+/**
+ * Actividad 02 - Gestion de ficheros y directorios con java.nio.file.
+ * Crea las rutas 'datos_ini' y 'datos_fin' y recorre la jerarquia del proyecto usando Files.walk.
+ */
 package actividad02
 
 import java.nio.file.Files
